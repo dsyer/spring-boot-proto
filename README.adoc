@@ -1,0 +1,1 @@
+A reactive Spring 5.x version of Josh's https://spring.io/blog/2015/03/22/using-google-protocol-buffers-with-spring-mvc-based-rest-services[2015 Blog] on Protobuf support in Spring.
